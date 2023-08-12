@@ -1,1 +1,4 @@
-# Drummachine in Javascript
+building a Drummachine in Javascript! 
+
+revisited
+
