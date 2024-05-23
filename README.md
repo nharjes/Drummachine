@@ -8,6 +8,12 @@ A simple and fun drum app built with HTML, CSS, and JavaScript. Press the corres
 - Visual feedback on key press
 - Easy to customize and extend
 
+
+## Technologies Used
+- HTML
+- CSS
+- Javascript
+
 ## How to Use
 
 1. Clone this repository:
@@ -27,3 +33,4 @@ A simple and fun drum app built with HTML, CSS, and JavaScript. Press the corres
       
   ## License 
   This project is licensed under the MIT License. See the LICENSE file for more details.
+
