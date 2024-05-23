@@ -27,7 +27,7 @@ body,html {
 }
 .keys > div {
   padding: 10px;
-  background-color: #EFCB68;
+  background-color: #b6b2b2;
   border-radius: 5px;
   display: grid;
   place-items: center;
