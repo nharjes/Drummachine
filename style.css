@@ -21,7 +21,7 @@ body,html {
 
 .keys {
   display: grid;
-  grid-gap: 10px;
+  grid-gap: 3px;
   grid-template-columns: repeat(3, 150px);
   grid-template-rows: repeat(3, 150px);
 }
@@ -29,6 +29,7 @@ body,html {
   padding: 10px;
   background-color: #b6b2b2;
   border-radius: 5px;
+  border: 1px solid black;
   display: grid;
   place-items: center;
 }
