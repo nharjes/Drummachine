@@ -37,5 +37,5 @@ A simple and fun drum app built with HTML, CSS, and JavaScript. Press the corres
   This project is inspired by the JavaScript Drum Kit tutorial by Wes Bos.
       
   ## License 
-  This project is licensed under the MIT License. See the LICENSE file for more details.
+  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
