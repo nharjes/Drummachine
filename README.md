@@ -1,4 +1,4 @@
-# JavaScript Drum App
+# Drumzpleaze
 
 A simple and fun drum app built with HTML, CSS, and JavaScript. Press the corresponding keys on your keyboard to play different drum sounds!
 
